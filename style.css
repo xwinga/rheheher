@@ -1,0 +1,27 @@
+body {
+    text-align: center;
+    background-color: rgb(141, 202, 141);
+}
+#head2{
+    font-size: xx-large;
+    
+}
+
+#head1{
+    font-size: xx-large;
+    text-align: center;
+    color: rgb(150, 112, 42);
+}
+#button1 {
+    text-align: left;
+    font-size: larger;
+}
+#button2 {
+    text-align: right;
+    font-size: larger;
+}
+#camera, #result {
+    border:5px solid black;
+    height:500px;
+    width:500px;
+}
